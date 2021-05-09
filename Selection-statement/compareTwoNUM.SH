@@ -6,7 +6,7 @@ num2=7
 if [ $num1 -gt $num2 ]
 then
     echo $num1 is greater than $num2
-elif [ $num1 -eq $num 2 ]
+elif [ $num1 -eq $num2 ]
 then
     echo $num1 is equal to $num2
 else

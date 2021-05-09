@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-empRateParHrs=20
+empRatePerHrs=20
 empCheck=$((RANDOM%3))
 
 if [ $empCheck -eq 1 ]
